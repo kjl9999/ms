@@ -1,0 +1,600 @@
+1;100 El Lanzador se ve afectado como si le hubiera atropellado un coche (1d100 puntos de daño, tirada de salvación contra arma de aliento para mitad de daño).
+2;101 El Lanzador se vuelve loco si es inteligente si se salva contra conjuros, la locura dura 1d4 semanas, si no, es permanente hasta que sea curada con la magia adecuada. 
+3;102 Un rayo cae sobre el Lanzador desde el cielo, al nivel efectivo de la Oleada. El Lanzador no recibe tirada de salvación, pero aquellos a dos metros de él pueden salvarse para mitad de daño.
+4;103 Una criatura al azar de los planos exteriores pasa a través de una Puerta.
+5;104 La próxima criatura viviente que toque al Lanzador gana 1d6 puntos de vida permanentes. El Lanzador pierde permanentemente el mismo número de puntos de vida (hasta un mínimo de 10 pv).
+6;105 El Blanco se vuelve inmortal. Cuando muera, pierde un punto de Constitución y se alza de entre los muertos a la siguiente medianoche. Cuando su Constitución llegue a 0 se convertirá en un Fantasma que perseguirá al Lanzador.
+7;106 Los puntos de vida del Blanco se elevan hasta el máximo para sus dados de golpe.
+8;107 El Lanzador es aprisionado en otro plano.
+9;108 Al Blanco le crecen alas y puede volar durante 1 hora al día a velocidad 12, categoría B.
+10;109 El Lanzador pivota 360º, creando un vórtice. Todas las criaturas en la linea de visión del Lanzador son tragadas por el vórtice, emergiendo en Ravenloft.
+11;110 Un Rayo de Muerte golpea a Lanzador y Blanco (ambos deben salvarse vs. muerte, o morir).
+12;111 El Lanzador se ve obligado a hablar en verso durante 2d6 asaltos. No puede lanzar conjuros con componente verbal (N. del T.: excepto si en el mundo del DM la magia es en verso).
+13;112 El Lanzador gana un objeto mágico misceláneo y dañino que toma efecto inmediatamente.
+14;113 El Blanco es devuelto a la condición en que estaba al inicio del presente combate.
+15;114 Una varita elegida al azar a 15 metros del Lanzador (a menos que haya una Varita de Maravilla cerca, en cuyo caso ella es afectada) estalla en un fogonazo, causando 1/2 punto de daño por carga a todo el que esté a 3 m. Tirada contra varita para mitad de daño.
+16;115 El Blanco recupera 3d6 pv (hasta el máximo normal).
+17;116 A la persona que esté más cerca del Lanzador le crece pelo en los globos oculares. Esto es muy doloroso y le provocará cegera.
+18;117 Todos los conjuros que lance el Lanzador durante las próximas 24 horas generarán una Oleada Salvaje
+19;118 Aparece un Banshee junto al Lanzador y aulla.
+20;119 3d20 Dretches (Tanar'ri menores) atraviesan una puerta y atacan al Lanzador. No pueden abrir otras puertas. Si el Lanzador sobrevive, recibe el doble de PX.
+21;120 Los dedos de los pies del Lanzador se alargan al triple de su talla normal, arruinando el calzado e infligiendo 1d4 puntos de daño. Este efecto dura 2d4 turnos. La tasa de movimiento se reduce al 50% caminando.
+22;121 Plaga de Insectos centrada en el Lanzador.
+23;122 Un meteorito de hierro enfriado surca el cielo cayendo sobre el Lanzador por 1d10+10 puntos de daño (si está bajo tierra, espera a que salga al aire libre).
+24;123 Todos los componentes de conjuros del Lanzador se desvanecen.
+25;124 Durante los próximos 3d4 rounds, todas las tiradas del Lanzador (de cualquier dado) son a -1.
+26;125 El Lanzador se convierte en un cuadro de sí mismo, hasta que sea disipado. Cualquier cambio pintado en el lienzo será parte del personaje cuando y si vuelve a su forma normal.
+27;126 Aparece un Envolvedor en el hombro del Lanzador.
+28;127 Todas las armas del Lanzador se convierten en armas malditas que atacan al usuario la próxima vez que se utilicen, volviendo después a la normalidad.
+29;128 El Lanzador se vuelve alérgico a uno de sus objetos mágicos. Este objeto le causa estornudos y tos durante 1d6 horas.
+30;129 Blanco protegido por una Esfera Prismática.
+31;130 Se crea un doble exacto del Blanco. Esto afecta a todo excepto los más poderosos artefactos.
+32;131 El Blanco gana 1d100% de resistencia a la magia durante 1d6 rounds.
+33;132 El Blanco se vuelve capaz de drenar un nivel por contacto durante 1d4 rounds.
+34;133 El Lanzador se Polimorfiza en una medusa de 120 cm. de diámetro a menos que se salve, a -4, contra conjuros. Si está en terreno seco, sufre 2d4 puntos de daño por asalto, lo cual puede ser prevenido si se le vierte continuamente agua por encima.
+35;134 El Blanco es protegido por Devolver Conjuro durante el siguiente turno.
+36;135 El familiar del Lanzador se vuelve contra él. Se deja de considerar a ese animal como familiar (se rompe el enlace empático, el Lanzador pierde cualquier beneficio por tener al familiar, el familiar pierde los bonus a los puntos de vida y tiradas de salvación, y el Lanzador no es penalizado si el animal muere).
+37;136 El suelo entre el Lanzador y el Blanco se vuelve lava fundida. Todas las criaturas en el sendero de lava de 1.5 m. de ancho deben hacer una tirada de Destreza para apartarse (siguen tirando hasta que pasen la tirada y sufren 3d6 puntos de daño por fuego cada asalto que fallen).
+38;137 El Lanzador pierde todos los dientes. Hace falta regeneración o el conjuro de Regenerar para recuperarlos. El Lanzador debe hacer una tirada de Aprender Conjuros por cada hechizo conocido que tenga componentes verbales para ser capaz de adaptarse a las nuevas pronunciaciones.
+39;138 Cualquier magia de la suerte activa en el Lanzador tendrá el efecto opuesto durante 1d4 rounds. Los modificadores positivos se volverán negativos, laBuena Racha de Paithan se convertirá en la Mala Racha de Paithan (N. del T.: y viceversa), y el Selector de Oleadas de Hornung hará que suceda la Oleada desechada.
+40;139 El Blanco obtiene un aura que provoca Miedo a todos sus oponentes (es aplicable una tirada contra paralización), aura que dura 1 turno (si el Blanco es un objeto, los afectados son aquellos que miren ese objeto).
+41;140 El Blanco gana regeneración de 1 pv por asalto.
+42;141 Sale lava fundida de debajo del suelo cercano al Lanzador, que sufre inmediatamente 1d10+10 puntos de daño (tirada de salvación para la mitad). Tira 1d100 para la duración: 01-50, 1d4+4 rounds 51-70, 1d4 hours 71-85, 1d100 días 86-100, se convierte en un volcán real, no mágico. 
+43;142 Suena la música de peligro de Star Trek, mientras una nube de humo rodea al Lanzador. Cuando se aclara el humo, hay dos versiones del Lanzador, una buena y la otra mala, enzarzados en combate. Si uno muere, ambos mueren. El DM llevará uno de ellos, al azar.
+44;143 El Lanzador pierde, permanentemente, un conjuro elegido al azar (puede reaprenderlo al siguiente nivel).
+45;144 Todas las criaturas destruídas por el Lanzador durante el último día se alzan como muertos vivientes con libre albedrío para intentar destruirle. Los muertos vivientes tienen todas sus habilidades originales, sin la necesidad de comer o dormir.
+46;145 El Lanzador abre un portal a otro lugar/plano de existencia y es empujado a través de él.
+47;146 El Lanzador Levita incontrolablemente, siempre hacia arriba, hasta que acabe la duración del conjuro, y entonces cae.
+48;147 El Lanzador sufre gran dolor (1d20 puntos de daño aturdidor, chequeo de moral, no puede hacer actividades que cansen) durante 1d3 asaltos.
+49;148 Gotea Limo Verde de la nariz del Lanzador. Le atacará con un +4 durante el primer asalto, atacando con normalidad a víctimas aleatorias en los asaltos subsiguientes.
+50;149 El Lanzador se convierte en un imán muy potente durante 1d4 rounds. Todo el metal en el área caerá hacia el Lanzador. Las armas de metal deben sacar un ataque contra el Lanzador, y aquellos que lleven armadura de metal también caerán hacia el mismo, haciendo y haciéndose 1d6 puntos de daño.
+51;150 El Blanco es Curado.
+52;151 La Fuerza del Blanco aumenta a 18/00 (sin tirada de salvación, desaparece en 1-4 días). Queda a discreción del Master el efecto que esto tenga, si hay alguno, en monstruos y animales.
+53;152 El Lanzador se tira un potente pedo que le hace 1d10 puntos de daño, salvación para la mitad. Esto también le propulsa lejos de donde está y arruina completamente la ropa no-mágica.
+54;153 El área en un radio de 30 m. del Lanzador se convierte en una zona de magia muerta. La criaturas mágicas se vuelven inertes, y los objetos y conjuros dejan de funcionar dentro de ella.
+55;154 Una carga de un cetro, vara o varita aleatoriamente escogido afecta al Lanzador.
+56;155 Lanzador y Blanco deben volver a tirar su característica más alta que no sea requisito primario (tira 4d6 y escoge las 3 mejores tiradas).
+57;156 La criatura amistosa al Lanzador más cercana es reemplazada por un Doppleganger. La criatura reemplazada está presa en el cubil del Doppleganger.
+58;157 Bola de fuego centrada en el Lanzador (al nivel efectivo de la Oleada).
+59;158 Todas las criaturas hostiles al Lanzador en un radio de 18 m. son duplicadas, incluyendo equipo.
+60;159 El Blanco sólo puede ser golpeado por armas +1 o mejores durante 1d10 + 10 rounds.
+61;160 Las criaturas hostiles a 18 m. del Lanzador recuperan todos sus puntos de vida.
+62;161 El Lanzador está, de repente, extremadamente borracho (sin tirada de salvación).
+63;162 El Blanco gana, permanentemente, 1 nivel/dado de golpe.
+64;163 El Lanzador se ve afectado por Sordera.
+65;164 El Lanzador arde en llamas durante 1d4 rounds. Todos a 3 m. de él sufren 2d6 de daño por fuego, quienes toquen al Lanzador 3d6. El Lanzador no sufre daño, pero todas sus pertenencias deben salvarse contra fuego mágico o arder.
+66;165 Ante el Lanzador, de una dimensión totalmente diferente, aparece un televisor en color estéreo de 30 pulgadas. Afecta a todos los que lo miren como una Rociada de Color.
+67;166 Aparecen horcas. El Lanzador debe salvarse contra conjuros para evitar ser colgado. La cuerda puede ser cortada antes de que mate al Lanzador, si recibe 10 puntos de daño en 1 round. Tiene CA 3.
+68;167 El Lanzador es afectado por el conjuro de Estatua.
+69;168 El conjuro intentado funciona al revés, si es posible.
+70;169 El conjuro intentado sale por la culata, afectando al Lanzador.
+71;170 1d10 esqueletos bajo control del Blanco se alzan del suelo y atacan al Lanzador (esto puede violar el alineamiento del Lanzador si es bueno, requiriendo redención).
+72;171 El Lanzador es enterrado hasta el pecho en desperdicios que fluyen de un portal que aparece espontáneamente.
+73;172 El Lanzador y todo su grupo son teleportados a otro lugar de conflicto.
+74;173 El suelo se abre y se traga al Lanzador hasta el cuello.
+75;174 Confusión centrada en el Lanzador.
+76;175 El Lanzador se ve rodeado por carbones incandescentes. Todo el que intente caminar sobre los carbones debe pasar una tirada de Sabiduría o sufrir 1d10 puntos de daño.
+77;176 El conjuro intentado funciona, pero afecta al Lanzador además de al blanco.
+78;177 El Blanco se vuelve invulnerable a las armas de filo durante 1 hora.
+79;178 El Lanzador es Retenido.
+80;179 El Lanzador repele el metal. No se pueden llevar objetos metálicos a menos de 1.5 m. de él durante 1d20 rounds. Esto también se aplica a todos los objetos que lleve el Lanzador, que salen volando.
+81;180 El Lanzador tiene una diana pintada sobre sí. Cualquiera que apunte a la diana con un misil o conjuro de tipo misil tiene un +2 al dar, hace +1 de daño por dado y toda tirada de salvación se hace a -2. Dura una hora.
+82;181 El Lanzador sufre los efectos de la Irresistible Danza de Otto.
+83;182 Suena un gong (funciona como una Campana del Hambre que sólo afecta al Lanzador).
+84;183 Tira otra vez. El Lanzador cree que el efecto de esa segunda tirada ha sucedido.
+85;184 Aparece volando un dragón joven de tipo determinado al azar.
+86;185 Vuelve a tirar, pero el efecto no sucede ahora. En lugar de eso, al Lanzador se le cae una uña. Si la desecha o la destruye, el efecto tiene lugar, siempre afectando al Lanzador incluso si es un efecto que normalmente afectaría a un Banco.
+87;186 Las armas del Lanzador huyen como si les afectara el conjuro de Cofre Retozón.
+88;187 Al Lanzador le crece una segunda cabeza en el hombro, discutidora y molestona.
+89;188 Uno de los objetos mágicos con cargas del Lanzador gasta una carga en un chisporroteo.
+90;189 El Blanco es imbuído de Invisibilidad Mejorada.
+91;190 Una Nube Hedionda se centra en el Lanzador.
+92;191 El Lanzador es cogido por una mano invisible y agitado como un muñeco de trapo durante 2d6 rounds. El lanzamiento de conjuros en tales condiciones es imposible.
+93;192 Granizada en technicolor. Durante 1d4 rounds, todo aquel que esté a 15 m. del Lanzador es golpeado por 1d4 piedras de granizo por asalto, cada una de las cuales hace 1d4 puntos de daño (si le afectan las armas normales).
+94;193 El Lanzador se convierte en un charco de agua. Si la luz solar es muy fuerte, sufre 1d4 puntos de daño por asalto por evaporación, a menos que esté protegido contra el fuego. El Lanzador vuelve a la normalidad al cabo de 2d4 asaltos.
+95;194 La boca del Lanzador se queda fruncida durante 1d10+10 rounds. No puede hablar, lanzar conjuros, utilizar armas de aliento u otros usos de la boca.
+96;195 El Blanco se vuelve bidimensional (como en el conjuro Dos Dimensiones) durante 10 rounds. El lado plano encara, inicialmente, al Lanzador.
+97;196 El Blanco olvida las últimas 24 horas.
+98;197 La mochila del Lanzador se incendia durante 1d6 rounds (pero no se consume). El Lanzador sufre 1d4 puntos de daño por round y debe soltarla a menos que sea inmune a fuegos normales.
+99;198 El Lanzador gira en el aire a 3 m. sobre el suelo, absorbiendo a todos los que lo vean y fallen la tirada de salvación, y sigue girando así hasta que falle una tirada de Destreza, cayendo y sufriendo el daño apropiado (1d6). El Lanzador queda entonces incapacitado por mareo durante 1d6 asaltos.
+100;199 Ilusión Avanzada de una Bola de Fuego centrada en el Lanzador.
+101;200 Todo el oro en posesión del Lanzador se convierte en agua.
+102;201 Imagen Espejo afecta al Blanco.
+103;202 El Lanzador se convierte en íntimo amigo del Blanco, e intenta evitar que nadie le dañe. Intentará establecer la paz entre el blanco y el grupo, pero utilizará la fuerza, si hace falta, para mantener esa paz.
+104;203 El Lanzador resulta cubierto de alquitrán y plumas. Esto le ciega y penaliza su Destreza en -4.
+105;204 El Lanzador se vuelve tonto durante 1d4 horas.
+106;205 El Lanzador se convierte en un bebé de su misma raza. Revierte a su edad normal en 1d10 rounds.
+107;206 Hay un encuentro aleatorio inmediato con un monstruo hostil al Lanzador.
+108;207 Sueño sobre el Lanzador y sus compañeros.
+109;208 El Blanco gana el poder de hablar en la lengua del Lanzador y una Inteligencia de al menos 9. Esto también se aplica a objetos inanimados.
+110;209 El Lanzador se ve envuelto en tiras de metal. Hace falta un cerrajero para abrirlas.
+111;210 El Lanzador es teleportado a la copa del árbol más alto que esté a la vista. Hace falta un chequeo de Destreza para no caerse.
+112;211 El área a 30 m. del Lanzador queda en éxtasis durante 1d10 días. Probablemente habrá alguien o algo al otro lado, esperando que el campo se acabe.
+113;212 La Oleada Salvaje dispara el lanzamiento de otro conjuro memorizado (escogido al azar). Tanto el conjuro lanzado como el que provocó la oleada se borran de la memoria.
+114;213 El Lanzador tiene espasmos incontrolables durante 2-4 asaltos. Entonces, aparece un Esquema Hipnótico que afecta a todos los que estén en su alcance y lo miren.
+115;214 El Lanzador es afectado como por un Filtro de Balbucear y Tartamudear.
+116;215 El Lanzador olvida todos los conjuros memorizados. Tras 1d6 rounds, los conjuros vuelven.
+117;216 El Lanzador es teleportado al burdel goblinoide más cercano.
+118;217 El Lanzador es Teleportado a su casa. Hay posibilidad de error.
+119;218 Un miembro del grupo del Lanzador queda ciego durante 1d8 rounds.
+120;219 De las orejas del Lanzador sale un gas venenoso incapacitante en la dirección general del Blanco. Todos los que estén entre Lanzador y Blanco deben salvarse contra veneno o caer inconscientes. El Lanzador se salva a -2 y el Blanco a +2.
+121;220 El Blanco escoge entre otras dos Oleadas, como por el Selector de Oleadas de Hornung.
+122;221 Todas las armas mágicas a 10 metros del Lanzador pierden sus poderes durante 2 asaltos.
+123;222 Llueven pequeñas bolas de goma (cada una de 3 cms. de diámetro) durante 1d4 asaltos en un área de 6 m. alrededor del Lanzador, provocando que todos los que estén en el área pasen una tirada de Destreza o tropiezen y caigan. Las bolas permanecen en la zona, provocando una nueva tirada cada asalto hasta que se limpie.
+124;223 El Blanco Ve Realmente sus alrededores (durante 10 rounds).
+125;224 El Lanzador se ve afectado como si le hubiera golpeado un Monstruo Oxidador.
+126;225 El Lanzador es encadenado al suelo (fuerza tensil de las cadenas: 1.360 kgs).
+127;226 El Lanzador es rociado con 2d20 trocitos de conffeti afilado, hacen 1 punto de daño cada uno (tirada de salvación para mitad de daño, sólo afecta a criaturas golpeadas por armas normales). 
+128;227 Todo el vidrio y el cristal a 10 m. del Lanzador se hace añicos. Los objetos mágicos o los contenedores de cristal con un objeto mágico dentro reciben una tirada de salvación.
+129;228 El Blanco es afectado como por una poción de Forma Gaseosa.
+130;229 Los árboles alrededor del Lanzador se caen (si no hay, primero crecen unos cuantos). El Lanzador debe salvarse contra petrificación o ser atrapado por uno de ellos y sufrir 1d6 puntos de daño.
+131;230 1d10 Piedras Ioun aparecen y empiezan a orbitar la cabeza del Blanco.
+132;231 El Blanco se vuelve etéreo. A menos que esté familiarizado con el plano etéreo, no se dará cuenta, y no será capaz de volver al Plano Material Primario a menos que alguien le guie.
+133;232 La próxima arma de misil que utilice el Blanco se multiplica por 6 cuando la use.
+134;233 El conjuro intentado funciona, pero consume el doble de cantidad de componentes materiales.
+135;234 Un rayo de luz infrarroja ciega a todos los que utilicen infravisión en la zona durante 2d6 rounds.
+136;235 Entra en erupción un géiser a medio camino entre el Lanzador y el Blanco. Todos a 3 m. del mismo sufre 2d6 de daño por el agua en ebullición.
+137;236 Palos a Serpientes, bajo control del Blanco, afecta a un objeto al azar a 3 m. del Lanzador. Dura 16 asaltos.
+138;237 Todo el mundo a 15 m. del Lanzador es lanzado 6 meses al futuro.
+139;238 Téntaculos Negros de Evard alrededor del Lanzador.
+140;239 El Lanzador se polimorfiza en algo que rime con su nombre (a elección del DM).
+141;240 Orden de   rendición  , como el conjuro, en la lengua apropiada, al Lanzador y sus compañeros.
+142;241 Todos los objetos mágicos del Lanzador se teleportan a lugares aleatorios en 30 m. de radio.
+143;242 Miedo sobre el Lanzador.
+144;243 El Lanzador es golpeado por 1d6+4 grapas gigantes, cada una de las cuales hace 1d4 puntos de daño, y le clavan a la superfície más cercana (si no hay tal superfície o pasa una tirada de salvación, hacen 1 punto de de daño cada una y el Lanzador no queda grapado).
+145;244 El cadáver más cercano a 60 m. del Lanzador se alza como un Zombie Juju y le ataca.
+146;245 Toda la comida a 15 m. del Lanzador se convierte en Moho Amarillo.
+147;246 Un conjuro aleatorio del mismo nivel que el conjuro intentado afecta al Lanzador al nivel efectivo de la Oleada.
+148;247 Se lanza un Enredar, centrado en el Lanzador, a nivel 10.
+149;248 El Blanco canta con el efecto de un bardo de nivel 10 durante 1 hora.
+150;249 El Lanzador queda cubierto de fango verde inerte que fluye del aire alrededor de su cuerpo. Todo lo que el Lanzador puede hacer es frotarse la cara para evitar ahogarse. Este efecto dura 1d6 asaltos. El Lanzador está efectivamente cegado durante este tiempo.
+151;250 La piel del Blanco se vuelve de Acero, dándole una clase de armadura básica de 0 (acumulable con otra armadura) durante 1d6 rounds.
+152;251 El Lanzador gira durante 1d4 asaltos y debe hacer una tirada de Destreza para poder moverse o actuar cada asalto.
+153;252 Aparece una jaula del tamaño adecuado alrededor del Lanzador y su grupo. Las víctimas deben sacar una tirada de Doblar Barras para escapar.
+154;253 El Blanco es afectado por el conjuro Forma Espectral.
+155;254 El próximo conjuro que haga el Lanzador será a nivel 0.
+156;255 El Blanco se convierte en una momia si no saca una tirada contra Muerte Mágica.
+157;256 El Lanzador queda paralizado durante 1d10 horas.
+158;257 La montura del Lanzador (si la hay) es polimorfizada en una cabra a menos que se salve contra polimorfización. Si el Lanzador no tiene montura, la que esté más cerca resulta afectada en su lugar.
+159;258 Un enorme tornado coge al Lanzador y sus amigos y los envía a Kansas (o algún otro punto llano, aburrido y lleno de trigo del Plano Material Primario).
+160;259 El Lanzador cambia de sexo (como por un Cinturón de Feminidad/Masculinidad).
+161;260 El Lanzador se teleporta a la cima de la mayor montaña a la vista.
+162;261 El blanco se vuelve Invisible durante 1d10 + 10 rounds.
+163;262 Una araña venenosa (el DM decide el tipo) aparece cerca del Lanzador y ataca.
+164;263 Fingir Muerte centrado en el Blanco.
+165;264 El pelo del Blanco se espesa y crece hasta 3.5 m. en 4 asaltos. El Blanco debe apartarse el pelo para ver. Los pelos son imposibles de dañar durante las siguientes 1d3 horas, mejorando la CA del Blanco en 10 contra armas cortantes.
+166;265 El conjuro intentado funciona, pero con el mínimo de efectividad (duración, daño, etc.)
+167;266 El Blanco es Apresurado.
+168;267 El Lanzador es electrocutado como por una presa sacudidora.
+169;268 El conjuro funciona, pero a 1/3 del daño, área, duración y alcance normal.
+170;269 Todas las criaturas a 18 m. del Lanzador deben salvarse contra conjuros u Olvidar.
+171;270 Todos los objetos mágicos a 18 m. del Lanzador culebrean cuando se les toca durante 1d8 días.
+172;271 A una persona al azar cerca del Lanzador se le invierten las rodillas para doblarse en la otra dirección. El cambio es permanente, y reduce su Destreza y Carisma en uno. La armadura puede necesitar modificaciones.
+173;272 La próxima vez que el Lanzador y sus compañeros regresen a casa, serán visitados por un duro y viejo recaudador de impuestos. Este tipo les pedirá el 10% de sus pertenencias a modo de impuesto, y tiene poder para respaldar su petición. Volverá cada mes hasta que sea disipado.
+174;273 El Lanzador invoca a un Leprechaun.
+175;274 Toda la ropa, armadura, armas y equipo similar a 25 m. del Lanzador debe salvarse contra desintegración o agrandarse al doble de su tamaño durante 4d10 asaltos.
+176;275 El Lanzador lanza una telaraña al Blanco, y actua como un punto de anclaje.
+177;276 El estómago del Lanzador queda vacío: le viene un hambre inmensa y debe pararse a comer.
+178;277 El Lanzador suda a mares durante un mes. Tiene que beber al menos 5 litros de agua al día o perder un punto de Constitución hasta el final del mes.
+179;278 Aparece una Boca Mágica, insulta al Lanzador, y desaparece.
+180;279 El Lanzador se Polimorfiza en un mamífero apropiado para la zona, o de un tipo aleatorio si no es aplicable, 40% de posibilidades de que sea del tipo monstruoso. 
+181;280 El Lanzador se vuelve histéricamente religioso durante un mes, creyendo él mismo ser una deidad, y tratando de convertir seguidores.
+182;281 Lanzador y Blanco intercambian cuerpos. Si el Blanco es un objeto completamente no-sintiente, el Lanzador caerá en coma.
+183;282 El Lanzador y sus amigos se teleportan sin error al próximo lugar que nombren (sin límite de peso).
+184;283 Todo el oro del Blanco se convierte en plomo (sin salvación a menos que el propio Blanco esté hecho de oro).
+185;284 El Lanzador cambia de raza (los monstruos se convierten en monstruos similares).
+186;285 El calzado del Lanzador se anima y le crecen dientes durante 3d4 asaltos. Estos dientes atacarán a todo el mundo a su alcance, haciendo que el Lanzador patée a la persona más cercana. Los dientes hacen 1d4 puntos de daño, aparte del daño que haga la patada del Lanzador.
+187;286 Nadie (excepto el propio Lanzador) puede oir al Lanzador durante 1d6 rounds. Puede seguir lanzando conjuros con componentes verbales. El Lanzador puede oir con normalidad.
+188;287 El Lanzador brilla con un color durante 1d12 días (como una antorcha).
+189;288 El Lanzador se vuelve tan inmensamente sucio que se forma una nube de polvo a su alrededor. Sólo el baño natural puede quitar la suciedad. Su Carisma disminuye en 5 (mínimo de 1) mientras tanto.
+190;289 El Lanzador cae de bruces al suelo. Le costará un asalto volver a levantarse.
+191;290 El pelo del Lanzador se vuelve verde (o de algún otro color si ya era verde). Es permanente hasta que le crezca nuevo pelo.
+192;291 El Blanco es teleportado directamente detrás del Lanzador.
+193;292 El Lanzador y el Blanco (sólo) quedan sellados tras un muro de fuerza impenetrable que sólo se abrirá cuando uno de los dos muera.
+194;293 El Blanco brilla azul. Como el conjuro de Fuego Imaginario, duración permanente.
+195;294 El Blanco se ve cubierto por armadura de placas, CA 2. Toda armadura que lleve cae al suelo. +3 a la CA de monstruos, pero puede hacer menos ágiles a los monstruos pequeños. Los lanzadores de conjuros no pueden hacer conjuros. La armadura desaparece en 2d10 rounds.
+196;295 El Lanzador es encerrado en una Esfera Prismática durante 24 horas. Todos su compañeros quedan fuera de ella.
+197;296 El escudo que esté más cerca del Lanzador se convierte en una cesta de flores. Pierde su bonus a la CA.
+198;297 Lanzador y Blanco se enzarzan en un acalorado debate sobre la naturaleza y utilidad de la Magia Salvaje. Ninguno hará nada más que discutir durante 1d6 asaltos. Si no tienen un idioma en común, aparecerá un pequeño diablillo para hacer de traductor.
+199;298 La Ilusión Avanzada de un Muro de Fuego rodea al Lanzador.
+200;299 El Lanzador cae en la delusión de creer que su arma o varita favorita se ha convertido en serpiente. Esta delusión dura 1d6 rounds.
+201;300 Drena un nivel de un blanco aleatorio a 15 m. del Lanzador. Salvarse contra conjuros a -5 evita la pérdida. Si esto mata al blanco, se convierte en un Zombie Ju-Ju con voluntad propia en busca de venganza.
+202;301 La próxima vez que los PJs entren en un pueblo, sus habitantes intentarán echarles.
+203;302 Licantropía en el Lanzador según su alineamiento.
+204;303 Cada moneda de oro del Lanzador se convierte en su equivalente en monedas de cobre.
+205;304 Los próximos 10 almuerzos que coma el Lanzador sabrán a estiercol de vaca a todos los que lo prueben.
+206;305 El conjuro funciona, pero no puede ser controlado por el Lanzador (el DM decide sus efectos al azar).
+207;306 Aparece una mofeta ante el Lanzador, que es rapidamente rociado.
+208;307 Un Demonio del Polvo es convocado y ataca al Blanco.
+209;308 Sin efecto, pero la próxima oleada que provoque el Lanzador tendrá dos efectos.
+210;309 El suelo bajo el Blanco se vuelve resbaladizo como si hubiera sido Engrasado.
+211;310 El Lanzador se Polimorfiza en un reptil/anfibio adecuado para la región, o de un tipo aleatorio si no es aplicable. 40% de posibilidades de que sea de tipo monstruoso.
+212;311 Un pájaro cercano comienza a cantar el himno americano con voz profunda de barítono, y seguirá al Lanzador, cantando a 100 decibelios, durante un mes.
+213;312 El Lanzador es afectado por un picor irritante durante 1-4 rounds, reduciéndose su Destreza a 3.
+214;313 Todas las criaturas muertas a 18 m. del Lanzador reciben un conjuro de Alzar a los Muertos.
+215;314 El Lanzador se Polimorfiza en un pájaro adecuado para la región, o de un tipo aleatorio si no es aplicable. 40% de posibilidades de que sea de tipo monstruo.
+216;315 El Lanzador queda atrapado en un bloque de gelatina de lima de 3 metros de lado. Las criaturas que estén así atrapadas deben hacer una tirada de Destreza para escapar (seguir tirando cada asalto hasta que se pase la tirada, o muerte a los 3 asaltos por falta de oxígeno).
+217;316 El Blanco gana infravisión (o algún otro tipo de visión especial si ya tenía infravisión), pero pierde la visión normal. Esto dura 1 día (ten en cuenta que la luz solar y la de las antorchas contienen algo de infrarojo, así que el resultado raramente resulta en ceguera,el Blanco ataca a -1). 
+218;317 La piel del Blanco se vuelve tan dura como el diamante (CA base de 0) durante 2 asaltos. Sigue pudiendo moverse y no es más susceptible al daño de lo normal (es decir, no es cristalino).
+219;318 La lengua del Lanzador crece lo suficiente para tocarse la punta de la nariz. Si su lengua ya era así de larga, la Oleada afecta a alguna otra parte de su cuerpo.
+220;319 Un Disipar Magia al nivel efectivo de la Oleada afecta a toda la magia a 15 m. del Lanzador.
+221;320 El próximo conjuro del Lanzador es lanzado a 1d4 niveles menos.
+222;321 Los pies del Lanzador se convierten en dos pies izquierdos (o dos derechos) durante un día. Durante ese tiempo, la tasa de movimiento del Lanzador se reduce a la mitad.
+223;322 Llueven 1d100 monedas de oro en un área de 18 m. de diámetro centrada en el Lanzador. Todas las criaturas en la zona deben hacer una tirada de Destreza para escapar, o sufrir 1d6 puntos de daño por las monedas que caen.
+224;323 Lluvia espesa, 18 m. de radio, centrada en el Lanzador, durante 2d6 turnos. Se mueve con él.
+225;324 El Lanzador es disminuído a 1/12 de su tamaño normal, permanentemente.
+226;325 El Blanco pierde todo el pelo, plumas, etc. Su Carisma se ve afectado a discreción del DM, según con la raza del Lanzador. Puede ser necesaria una tirada de moral.
+227;326 El conjuro intentado funciona, pero consume 1 carga de un objeto con cargas al azar.
+228;327 Oscuridad permanente en un área de 9 m. alrededor del Lanzador.
+229;328 La ropa y el equipo del Lanzador se vuelve invisible, dejando al Lanzador muy avergonzado. Cualquier invisibilidad previa es negada.
+230;329 El encantamiento de todas las armas y armaduras a 15 m. del Lanzador invierte su bonificador durante 2d10 rounds. P. ej.: +3 se vuelve -3.
+231;330 El Lanzador es atado boca abajo por una cuerda que aparece por arte de magia.
+232;331 Alguna parte del Lanzador se vuelve permanentemente invisible (mano, oreja, dedos del pie, etc.). Disipar Magia para devolver a la normalidad.
+233;332 Toda la carne del Lanzador excepto sus vasos sanguineos y huesos se vuelve transparente durante 1d4 turnos. El Carisma del personaje disminuye en 10 (mínimo de 1) durante ese tiempo.
+234;333 El Lanzador es empapado en una espesa capa de caramelo, y gana un +1 a su CA debido a la protección extra. El Lanzador debe pasar 1 round para limpiar sus ojos y boca. El caramelo se solidificará, a menos que sea quitado, en 1 turno, inmobilizando a la víctima.
+235;334 Lanzador y Blanco intercambian lugar, ropa, equipo, etc.
+236;335 El área alrededor del Lanzador se vuelve desagradablemente caliente.
+237;336 Una posesión al azar del Lanzador comienza a quejarse de como la trata éste, protestando en voz alta por las malas condiciones de trabajo, la apestosa paga, los largos horarios...
+238;337 El Lanzador tiene una visión de los jugadores de la partida de rol durante 1 round. Se ve afectado por una sensación de cansancio y tedio durante 1 día.
+239;338 Aparece un barril de jarabe en el aire sobre el grupo del Lanzador. Se vacía sobre la primera persona que se dé cuenta de él (quien pase por un margen más amplio una tirada de Destreza).
+240;339 El próximo conjuro que se lance a 30 m. del Lanzador tiene triple efecto, o si no un -4 a las tiradas de salvación (no aplicar a los conjuros de objetos).
+241;340 El Blanco huele a rosas durante un mes. Si muere, su cuerpo no se descompondrá y será Resucitado al final del mes sin ninguna intervención.
+242;341 Lanzador y Blanco deben volver a tirar su Constitución (tira 4d6 y escoge las 3 mejores tiradas).
+243;342 Un Simulacro del Lanzador con voluntad propia aparece a 1 metro delante de él. El simulacro tiene un 65% del conocimiento y habilidades del Lanzador y el 50% de su nivel.
+244;343 Soplo de Viento centrado en el Lanzador.
+245;344 El Lanzador se Polimorfiza en un pez adecuado para la región, o de un tipo aleatorio si no es aplicable. 40% de posibilidades de que sea de tipo monstruo.
+246;345 El Lanzador es cubierto por chocolate líquido.
+247;346 Uno de los objetos del Lanzador es teleportado a la mano del Blanco. El Blanco suelta cualquier objeto que tuviera en esa mano. Si el Blanco no es una criatura o no tiene manos, el objeto simplemente yace en el suelo.
+248;347 Todas las criaturas que estén moviéndose a 18 m. del Lanzador deben salvarse contra conjuros o tropezar y caerse.
+249;348 Crear Agua sobre el Lanzador.
+250;349 Todo el grupo del Lanzador es teleportado al artefacto/reliquia más cercano (no garantiza que sea utilizable, y muy posiblemente estará en posesión de alguien).
+251;350 El Blanco (si no es absolutamente no-inteligente) se vuelve bersérker y ataca físicamente a las criaturas más cercanas.
+252;351 El Lanzador se Polimorfiza en una planta adecuada para la región, o de un tipo aleatorio si no es aplicable. 40% de posibilidades de que sea de tipo monstruo.
+253;352 El Blanco crece al doble de altura. Dura 1d4 horas.
+254;353 El Lanzador debe salvarse contra arma de aliento o encontrarse con los pulmones llenos de agua. Si falla la Tirada de Salvación, el Lanzador no puede hacer otra cosa qe toser y escupir durante 1d4 rounds.
+255;354 Todos los conjuros que tenga memorizados el Lanzador son lanzados, uno por asalto, de nivel 1 hacia arriba. El Lanzador no tiene control alguno sobre el orden, pero puede nombrar al blanco con una tirada de Identificar Conjuros si no hace nada más ese asalto.
+256;355 Todas las criaturas a 100 m. del Lanzador son aleatoriamente teleportadas sin error a una posición a no más de 100 m. del Lanzador.
+257;356 Todos los compañeros del Lanzador se vuelven verdes cada vez que se acercar a 1.5 m. de él durante los próximos 2d10 turnos.
+258;357 El Blanco comienza a silbar   Silbando al trabajar  . Sus aliados ganan +1 a la moral durante 1d4 rounds. 
+259;358 Todos los conjuros en las mentes del Lanzador y el Blanco son intercambiados, si las mentes son compatibles. Si no, todos los conjuros se pierden y deben volver a ser memorizados.
+260;359 Durante 1 round, el Lanzador cae en la delusión (como por la poción del mismo nombre) de que el conjuro ha funcionado como debía.
+261;360 El pelo del Lanzador entra en combustión espontanea, y sigue ardiendo durante 6d10 turnos. El pelo no se consume y no se sufre daño. La llama es en realidad ilusoria y puede dejarse de creer en ella.
+262;361 El Blanco es limpiado, la suciedad y los malos olores eliminados (1d4 puntos de daño a los muertos vivientes corpóreos y las criaturas hechas de barro o tierra).
+263;362 Aparecen 1d6 pollos a los pies del Lanzador y salen corriendo a toda velocidad.
+264;363 La ropa del Lanzador se vuelve sintiente durante 2 semanas, rehuyendo dejar su cálido y cómodo cuerpo, quejándose sonoramente si se la trata duramente o se fuerza su contacto con elementos desagradables.
+265;364 Las uñas de los pies del Lanzador crecen 35 cms.
+266;365 Del suelo fluye espuma en un radio de 18 m. alrededor del Lanzador, durante 2-5 asaltos, a 1m³ por asalto. La espuma puede ser de jabón (25%) o cerveza (75%).
+267;366 El Lanzador es golpeado por una batería de bolas de nieve no-mágicas. No se sufre daño alguno a menos que el Lanzador esté basado en el fuego o el calor, en cuyo caso 1d12 de daño.
+268;367 Aparece una planta al azar y echa raíces cerca del Lanzador.
+269;368 De la oreja derecha del Lanzador crece una seta amarilla, en dos rounds. Es comestible, pero sabe a cera. El Lanzador debe salvarse contra conjuros o quedar distraído durante el proceso.
+270;369 La punta de la nariz del Lanzador brilla durante un segundo (no hay más efectos).
+271;370 Un melón aparece en las manos del Lanzador.
+272;371 Todas las armas a 18 m. del Lanzador cantan una penetrante nota durante un round.
+273;372 Las ropas del Lanzador se convierten en un vestido de cuero negro suave, ajustado y brillante, tachonado con plata.
+274;373 Cae una densa lluvia durante 1 round en 10 metros a la redonda del Lanzador.
+275;374 El Lanzador habla con alegre voz chillona (  de ardilla  ) durante 1d6 días. 
+276;375 La ropa del Lanzador cambia al uniforme de motorista de un Ángel del Infierno.
+277;376 El conjuro intentado parece fallar, pero saldrá cuando el Lanzador utilice otro conjuro.
+278;377 Un campo de setas emerge alrededor del Lanzador. Comer una seta cura 1d6 pv (50%) o causa 1d6 puntos de daño (50%).
+279;378 Todas las áreas del cielo visible ocupadas por nubes se aclaran, y las zonas despejadas se llenan de nubes. Este efecto dura 1 turno, y es probable que produzca una densa niebla que ciegue a todos en el área.
+280;379 Una arma mágica escogida al azar cambia su bonus de encantamiento a la variación de nivel sacada cuando apareció esta oleada.
+281;380 Ocurre un eclipse de sol (lunar si es de noche). Dura hasta la próxima salida o puesta de sol.
+282;381 Todo lo que es visible para el Lanzador pierde su color durante 2d6 turnos, volviéndose de tonos de gris.
+283;382 Se oye un sonoro   ¡ZAP!  . No hay más efectos. 
+284;383 El reverso exacto de una segunda tirada,vuelve a tirar si no es reversible. 
+285;384 Un hemisferio de 120 m. de diámetro centrado entre el Blanco y el Lanzador se llena de una espesa niebla, reduciendo la visibilidad a 30 cms. en la zona.
+286;385 Oscurecimiento.
+287;386 Un bosque crece alrededor del Lanzador en 3d4 rounds, 1.5 kms. de diámetro por nivel efectivo de la oleada.
+288;387 El aire se llena de dulce música, procedente de una flor cercana. La flor nunca morirá, y seguirá cantando por siempre si se coge. La canción nunca se repite.
+289;388 El conjuro intentado funciona, pero lo acompañan espectaculares efectos especiales.
+290;389 Una roca de 15 metros se elevará del suelo directamente debajo del Lanzador, elevándolo 60 metros en el aire. La roca seguirá volando durante 1 año por nivel efectivo de la Oleada.
+291;390 Vuelve a tirar y multiplica por dos los efectos.
+292;391 La última comida de todo el mundo es animada y busca la salida más fácil, que suele ser hacia abajo si han pasado más de 3 horas. No se sufre daño, pero el combate cesa durante 2 rounds, y el resultado puede ser embarazoso.
+293;392 Todo el mundo a 15 m. de Lanzador y Blanco comienza a cantar canciones de taberna durante 2d4 rounds. Todos los afectados deben tirar contra conjuros o convertirse en amigos. Aquellos que pasen su tirada pueden atacar con sorpresa.
+294;393 Una varita al azar a 15 m. del Lanzador cambia a otro tipo de varita, vara o cetro. No hay cambio en el aspecto, palabra de mando o número de cargas. El dueño no descubrirá el cambio hasta la siguiente vez que utilice la varita.
+295;394 Una enorme bola de disco aparece en medio del aire, se oye bien alta la música y la letra de   Staying Alive  , y Lanzador y Blanco bailan disco durante los siguientes 2 rounds. 
+296;395 Todas las armas cortantes a la vista del Lanzador emiten sonoros ruidos de beso cuando golpeen a alguien el próximo turno.
+297;396 No sucede NADA. El DM debería tirar unos cuantos dados y reirse por lo bajo.
+298;397 Vuelve a tirar, invirtiendo los términos Lanzador/Blanco. Repite esa tirada si es inapropiada.
+299;398 Los dedos de una criatura cercana al azar disminuyen a 1/12 de su tamaño durante una hora.
+300;399 El área es sacudida por un Terremoto durante 3 rounds.
+301;400 Cambio aleatorio del clima, 1.5 km de radio.
+302;401 El Lanzador hace aparecer un zebú, jirafa o gran felino.
+303;402 Todo lo que sea visible para el Lanzador cambia de color durante 2d6 turns.
+304;403 Lanzador y Blanco deben volver a tirar sus puntos de vida.
+305;404 Al Lanzador le crecen colmillos de vampiro. Los colmillos le permiten atacar con mordisco por 1d3 de daño, pero reducen su Carisma en 1. Los colmillos pueden hacerse desaparecer con un conjuro de Curar enfermedad. Si el Lanzador ya tenía colmillos, esta Oleada se los quita.
+306;405 Petalos de flor de color rosa con puntos verde chillón de flor de 1.5 m. de largo llueven del cielo en un área de 15 metros alrededor del Lanzador. Todo en esa área queda enterrado, y el combate se detiene durante 2d6 asaltos, mientras todo el mundo lucha por volver a la superficie.
+307;406 Todo el suelo y el terreno en 30 m. a la redonda del Lanzador se vuelve invisible durante 1d6 días, transparente hasta el lecho de roca, así que todo el mundo parecerá que flota en el aire. Todos los objetos enterrados son visibles.
+308;407 Toda la hierba en los 50 metros cuadrados delante del Lanzador crece sin control. Si no había hierba, surge una capa de césped bien cuidado y recortado.
+309;408 Todas las monedas de cobre a 15 m. del Lanzador se transforman permanentemente en monedas de oro, y viceversa.
+310;409 Aparece un arco iris sobre vuestras cabezas, durante una hora.
+311;410 El área se llena con incontables mariposas, que ciegan a todo el mundo durante 2 asaltos.
+312;411 Se forma un profundo lago en 30 m. alrededor del Lanzador. Aquellos que no saben nadar se ahogarán como si hubieran caído a un lago normal.
+313;412 El Lanzador hace aparecer una paloma grande, un conejo grande o una iguana grande.
+314;413 Una cabaña de madera vacía aparece cerca del Lanzador.
+315;414 Un conejo sale del sombrero o casco más cercano. Se ha comido el pelo de su portador.
+316;415 Un oasis del desierto crece alrededor del Blanco.
+317;416 Durante 2d4 rounds, una criatura a 15 m. del Lanzador escogida al azar sólo dará golpes críticos o fallos críticos. Con un 1-5 natural, un compañero es golpeado,de 6 a 10, el arma cae o el atacante cae de bruces,11-19 doble daño,20, muerte instantánea. 
+318;417 Todo el mundo a 60 m. del Lanzador se torna completamente invulnerable durante 2d6 asaltos.
+319;418 El campo de batalla se recubre de hielo resbaladizo. Todos los presentes deben hacer una tirada de Destreza a -4 cada asalto o caer al suelo y perder todas sus acciones ese round. Los ataques se hacen con un -4 al dar, y todas las armas de melee infligen sólo 1/2 daño. El hielo se funde con normalidad.
+320;419 Una planta a 1.5 m. del Lanzador se agita alarmantemente, explotando después en una nube de polen que lo obscurece todo en un radio de 15 m. durante 3 asaltos por nivel efectivo de la Oleada.
+321;420 Todo aquel visible para el Lanzador siente frío durante 5 asaltos, sin ningún otro efecto.
+322;421 Niebla sólida entre el Lanzador y el Blanco.
+323;422 El Lanzador hace aparecer un rinoceronte, elefante o ratón grande.
+324;423 Toda la roca a 6 m. del Blanco se convierte en un metal aleatorio (la mena que fuera más común en la roca).
+325;424 Crece un gran roble de 15 m. con muérdago (nadie resulta herido).
+326;425 El Lanzador dice cualquier cosa que desee (nada más allá de un deseo limitado), y entonces el DM tira el dado: hay un 50% de posibilidades de que le suceda al Lanzador o al Blanco.
+327;426 Los ojos del Lanzador adquieren pupilas de gato. El Lanzador obtiene infravisión de 36 m., pero pierde 1 punto de Carisma. Si el Lanzador ya tenía ojos de gato, se vuelven normales y pierda la infravisión permanentemente.
+328;427 El Lanzador hace aparecer una fea pintura (25%), un fuelle (25%), o la bota de un gigante de las tormentas (50%).
+329;428 Estallido de fuegos artificiales (inofensivo pero espectacular).
+330;429 Vuelve a tirar: afecta tanto al Lanzador como al Blanco.
+331;430 La nariz del Blanco crece a 10 veces su tamaño normal durante 2-6 rounds.
+332;431 El conjuro intentado funciona, pero se retrasa 1d6 rounds.
+333;432 El Lanzador automáticamente memoriza su próxima Oleada (como con el Memorización de Weldon (N. del T.: ???)) pero olvida todas las otras así memorizadas.
+334;433 Un anillo de setas aparece alrededor del Blanco (ningún otro efecto).
+335;434 Un sombrero de fieltro negro (valor: 15 mp) aparece en la cabeza del Lanzador.
+336;435 1d4 tomates podridos golpean al blanco (efecto a discreción del DM).
+337;436 1d6 huevos frescos golpean al Blanco desde arriba (efecto a discreción del DM, pero no debería ser gran cosa).
+338;437 Trozos de merengue vuelan de las manos del Lanzador hacia el Blanco.
+339;438 Fragmentos de películas subtituladas se proyectan sobre el Blanco durante 90 minutos o hasta que el Lanzador haga otro conjuro.
+340;439 El conjuro que resultó en esta oleada no se borra de la memoria del Lanzador. Tira otra Oleada.
+341;440 El Lanzador descubre el alineamiento del Blanco.
+342;441 La sombra del Lanzador desaparece (durante 1d4 días).
+343;442 Un graffiti que dice   ¡<nombre del Lanzador> estuvo aquí!   aparece escrito en tinta sobre el Blanco. La escritura es visible incluso si el Blanco no lo es. 
+344;443 El Blanco se vuelve zurdo/diestro (sin salvación).
+345;444 Al Blanco le salen hojas por todo el cuerpo. No le causan ningún daño y pueden ser podadas.
+346;445 Rayos de luz inofensivos con aspecto de Rayos Prismáticos irradian del Lanzador en una dirección aleatoria.
+347;446 Unos gusanos verdes saltan sobre el Blanco.
+348;447 Toda el agua a 18 m. del Lanzador se convierte en vino. ¡A tu salud!
+349;448 Todas las uñas y garras a 10 m. del Lanzador son recortadas y limadas, haciéndolas prácticamente inofensivas.
+350;449 El Blanco es vuelto boca abajo,aturdido durante 1 asalto y debe hacer una tirada de Destreza para no dejar caer los objetos que lleve cogidos. 
+351;450 Los conjuros lanzados en el siguiente asalto durarán 10 veces lo normal, o un mínimo de 1 turno, lo que sea más largo. No informes al Lanzador de esto.
+352;451 Un chorro de cerveza brota de las puntas de los dedos del Lanzador durante 1d3 rounds.
+353;452 El Blanco tiene un gran deseo de hacer el amor con el Lanzador, haciendo sólo ataques de derribo. El Blanco puede hacer una tirada de salvación al 3r. y sucesivos asaltos, hasta que lo consiga.
+354;453 Todas las monedas del Lanzador se convierten en perlas (100 mo de valor base). Seguirán siendo perlas hasta dos horas después de que sean vendidas o cambiadas a alguien, cuando recuperarán la normalidad. No pueden ser utilizadas como componentes de conjuro.
+355;454 El Blanco cambia de raza (los monstruos se convierten en monstruos parecidos).
+356;455 Todo el aire alrededor del Blanco desaparece (estallido sónico, 1d4 puntos de daño aturdidor, tirada de Destreza para no dejar caer objetos cogidos).
+357;456 El Lanzador salta 2d3 x 10 m. en una dirección aleatoria. Hacia atrás sólo puede saltar 20 m.
+358;457 El Blanco se ve afectado por Oscuridad en los asaltos impares durante 3-10 asaltos.
+359;458 El Blanco se ve afectado por la Incontrolable Risa Horrible de Tasha.
+360;459 Un pastel vuela hacia el Blanco,debe pasar un asalto limpiándose la cara o luchar a -2 durante 3 asaltos. 
+361;460 Aparece un Frasco de Hierro, y el Blanco es forzado a su interior si falla la tirada de salvación. Todos los blancos enemigos se prueban hasta que uno falle la tirada,si todos se salvan, le toca al grupo del Lanzador. 
+362;461 El Blanco es afectado por Licantropía, según su alineamiento.
+363;462 El Blanco se infla como un globo durante 1d4 asaltos, y se desinfla durante otros 1d4 asaltos. Sólo afecta a material vivo de hasta 400 kgs. (el   globo   no flotará en el aire). 
+364;463 El Lanzador es dotado con impresionantemente grandes genitales (si es macho) o pechos (si es hembra).
+365;464 Las 4 primeras notas de la 5ª Sinfonía de Beethoven resuenan en el aire. Todas las criaturas que lo puedan oir hostiles al Lanzador deben hacer una tirada de moral.
+366;465 Las orejas del Blanco crecen enormemente (30 cm. por asalto) hasta que éste caiga debido a su peso, tras 2d4 rounds. Las orejas entonces se caerán y volarán a casa del Lanzador, donde se montarán solas sobre el portal de la casa y batirán para los visitantes.
+367;466 El Blanco se Polimorfiza en un reptil/anfibio adecuado para la región, o de un tipo aleatorio si no es aplicable. 40% de posibilidades de que sea de tipo monstruo.
+368;467 El primer conjuro que investigó el Lanzador en su vida toma efecto inmediatamente. Si el Lanzador no ha investigado ningún conjuro, se siente incompetente como mago.
+369;468 El Blanco cambia de sexo (como por un Cinturón de Feminidad/Masculinidad).
+370;469 El Lanzador tiene una acertada visión del futuro (alrededor de 1 hora adelante) y es consciente de lo que es, pero no puede hacer nada más que mirar durante los siguientes 1d4 rounds.
+371;470 El Lanzador se cura de 1d8 pv si estaba herido.
+372;471 Todas las armas y armaduras a 15 m. del Lanzador se vuelven gomosas e inútiles durante 2d4 rounds. Cuando la armadura se haya solidificado, le vendrá perfecta a quien la lleva, dando un +1 a ese portador. Las armaduras que se usen durante ese tiempo se echarán a perder.
+373;472 El Blanco chilla (perdiendo un asalto, aunque ataques de voz o aliento toman efecto automáticamente).
+374;473 El Blanco se convierte en su reflejo en el espejo, incluyendo los objetos.
+375;474 Concha anti-plantas alrededor del Lanzador, sólo.
+376;475 El Lanzador es afectado por un conjuro de Fuerza.
+377;476 La gravedad se duplica donde está el Blanco (durante 1 hora).
+378;477 El aura del Lanzador cambia para parecer de otro alineamiento. Dura 1d3 días.
+379;478 Una densa capa de polvo cubre al Blanco,10 % de posibilidades de cada tipo de polvo mágico. Se permite una tirada de salvación si el efecto es perjudicial. 
+380;479 El Blanco queda paralizado e invisible durante 1 hora (una tirada contra conjuros para evitar ambos efectos).
+381;480 El Blanco se Polimorfiza en una planta adecuada para la región, o de un tipo aleatorio si no es aplicable. 40% de posibilidades de que sea de tipo monstruo.
+382;481 El Blanco se Polimorfiza en un pájaro adecuado para la región, o de un tipo aleatorio si no es aplicable. 40% de posibilidades de que sea de tipo monstruo.
+383;482 El Blanco se alzará como un muerto viviente aleatorio cuando muera (sin salvación,si el blanco ya es un muerto viviente todo el daño que haya recibido se cura). 
+384;483 El Lanzador tiene conocimiento de sus próximas 3 Oleadas Salvajes, pero la información solo es acertada en un 75%.
+385;484 El Blanco es rociado con un insecticida generalmente inofensivo. Hace 1d10 puntos de daño a insectos gigantes o criaturas insectoides,mata a los insectos pequeños. 
+386;485 El Blanco es frenado.
+387;486 Todos los conjuros lanzados durante el asalto anterior vuelven a ser lanzados durante este asalto, afectando a las mismas víctimas.
+388;487 El Lanzador Implanta una maldición en el Blanco (como por el conjuro de clérigo).
+389;488 Aparecen canicas en el suelo cerca del Blanco,tirada de Destreza durante los siguientes 5 asaltos para evitar perder el equilibrio (lo cual da una penalización de -2 a la CA). 
+390;489 La próxima vez que el PJ entre en una ciudad, sus habitantes intentarán por todos los medios, excepto encarcelarlo, que se quede a vivir allí, permanentemente.
+391;490 El Blanco se Polimorfiza en un pez adecuado para la región, o de un tipo aleatorio si no es aplicable. 40% de posibilidades de que sea de tipo monstruo.
+392;491 El Lanzador pasa la próxima tirada de salvación que intente.
+393;492 El Blanco deja caer el arma.
+394;493 Colores danzantes oscilan sobre un área de 3.5 x 2.7 m. ante el Lanzador,las criaturas que miren son cegadas durante 1d6 rounds. 
+395;494 El conjuro intentado tiene éxito,todas las tiradas de salvación contra él se penalizan en +2. 
+396;495 Una rociada de aceite hirviendo golpea al Blanco por 1d6 puntos de daño.
+397;496 El Blanco emite mal olor, disminuyendo su Carisma en 2 (permanentemente).
+398;497 La ropa y armadura del Blanco caen al suelo.
+399;498 El Blanco ríe maníacamente durante 2 rounds (penalización de -4 a todas sus acciones,combate imposible). 
+400;499 Uno de los objetos del Lanzador salta y dibuja un pentagrama (o círculo taumatúrgico u otro diagrama de protección) alrededor del Blanco. El Blanco puede ser confinado en ese diagrama, si falla una tirada de salvación contra magia a -5. El objeto se queda en el círculo.
+401;500 El Lanzador es afectado por Invisibilidad.
+402;501 Magnetismo Personal (N. de. T.: ver   The Great Net Spellbook  , Personal magnetism) centrado en el Lanzador. 
+403;502 El Blanco se Polimorfiza en un mamífero adecuado para la región, o de un tipo aleatorio si no es aplicable. 40% de posibilidades de que sea de tipo monstruo.
+404;503 Un rayo de Delusión impacta en el Blanco. El Lanzador decide que efecto cree el Blanco que ha tenido el rayo.
+405;504 Desaparece la gravedad donde está el Blanco (dura 1 hora).
+406;505 El Blanco desaparece, para reaparecer cerca cuando el Lanzador lance otro conjuro o muera.
+407;506 Todas las criaturas resistentes a la magia a 30 m. del Lanzador pierden su resistencia durante 2d10 asaltos.
+408;507 El Blanco envejece/rejuvenece 2d20-20 años (sin tirada de salvación).
+409;508 El Lanzador puede Identificar automáticamente un objeto en las siguientes 24 horas con un 100% de acierto. No hace falta memorizar el conjuro, ni cuenta para el máximo que puede lanzar el mago ese día.
+410;509 Todo el plomo en posesión del Lanzador se convierte en oro.
+411;510 Todas las criaturas en una esfera de 6 m. centrada en el Lanzador se vuelven Invisibles.
+412;511 1d10 esqueletos bajo control del Lanzador salen del suelo y atacan al Blanco (esto violará su alineamiento si el Lanzador es bueno, necesitando posterior redención).
+413;512 Llueve Limo Verde sobre el blanco durante 1d4 asaltos (las criaturas a 1.5 m. del Blanco deben salvarse contra arma de aliento o ser alcanzadas).
+414;513 De 10 a 40 gemas con un valor inicial de 1 mo salen disparadas de las puntas de los dedos del Lanzador. Tira por cada persona en la trayectoria de las gemas, para ver que porcentaje de ellas le da, -5% por CA por debajo de 10.
+415;514 Los dientes del Lanzador se convierten en irrompible piedra blanca. El Lanzador puede morder a través de practicamente cualquier cosa (incluyendo los metales más blandos), puede ataca con mordisco para hacer 1d3 puntos de daño, y nunca más vuelve a necesitar un empaste. Si el Lanzador ya tenía dientes de piedra, esta Oleada se los quita.
+416;515 Un conjuro al azar del mismo nivel que el conjuro intentado afecta al Blanco al nivel efectivo de la Oleada.
+417;516 Las ropas del Lanzador cambian de color para imitar sus alrededores, durante el próximo turno, haciendo más difícil el darle. Los ataques de melee son a -2, los de misil a -4.
+418;517 El Blanco enmudece durante el siguiente día.
+419;518 El Blanco debe salvarse contra arma de aliento o encontrarse con los pulmones llenos de agua. Si es el caso, no puede hacer nada más que toser y escupir durante 1d4 rounds.
+420;519 El Blanco es encerrado en un bolsillo extradimensional (como por el Truco de la cuerda) por toda la duración del conjuro (durante un mínimo de 2d4 rounds).
+421;520 El Blanco es paralizado durante 1d10 horas.
+422;521 Frío Contínuo (deja al Lanzador decidir el área de efecto).
+423;522 El conjuro tiene éxito y no es borrado de la memoria del Lanzador.
+424;523 El Lanzador gana los beneficios de un Forma de Espectro.
+425;524 Un fuego normal surge a los pies del Blanco (1d4 puntos de daño).
+426;525 La piel del Lanzador se vuelve de acero, dándole una CA base de 0 (acumulativa con otra armadura) durante 1d6 rounds.
+427;526 Sueño sobre el Blanco y su grupo.
+428;527 El Blanco es golpeado por un Rayo Debilitador al nivel efectivo de la Oleada.
+429;528 El Blanco sufre   necesidades imperiosas   e inmediatamente se retira para aliviarse. 
+430;529 El Blanco es enviado 3d10 asaltos hacia el futuro.
+431;530 El Blanco comienza a recitar poesía muy mala durante 2d4 asaltos, sin tomar otras acciones a menos que sea atacado, como si se le hubiera pedido que hiciera eso bajo un conjuro de Hechizar.
+432;531 El suelo se abre y se traga al Blanco hasta el cuello.
+433;532 Aparece una Némesis Reptante (95%) o Némesis Volante (5%), bajo control del Lanzador si pasa una tirada de salvación contra conjuros a -3.
+434;533 El arma del Blanco, u otra posesión, se convierte en un osito de peluche, una pierna de cordero, un cucharón o un anillo. Si el Blanco no tiene posesiones, vuelve a tirar.
+435;534 El próximo conjuro del Lanzador es lanzado 1d4 niveles más alto.
+436;535 1d10 dardos +1 salen disparados contra el Blanco,tirar con GAC0 15 para cada dardo. 
+437;536 Durante 1 asalto el Blanco es golpeado por un Puño Cerrado de Bigby.
+438;537 La próxima vez que el Blanco utilice una forma de ataque especial, le ataca a él mismo.
+439;538 Retener Monstruos centrado en el Blanco.
+440;539 Un conjuro de Torpeza afecta al Blanco el doble de la duración normal.
+441;540 El Lanzador gana un familiar si no tiene uno ya. Aparecerá en 1d4 horas.
+442;541 El Blanco es Hechizado por el conjuro apropiado (se permite salvación contra conjuros).
+443;542 1d4 Flechas de Llamas se disparan contra el Blanco.
+444;543 El Blanco es teleportado a 9 m. sobre el Lanzador. Cae sufriendo 3d6 puntos de daño, mitad de daño para el Lanzador si pasa una tirada de Destreza.
+445;544 Los lagrimales del Lanzador rocían agua (como una pistola de agua),1/3 de posibilidades de que sea sagrada, normal o impía. 
+446;545 El Lanzador Ve Realmente el área general del Blanco (durante 10 rounds).
+447;546 Si el Blanco puede lanzar conjuros, los Lanza todos (con Blancos al azar).
+448;547 Una Nube Incendiaria afecta al área del Blanco.
+449;548 El Lanzador gana el toque de Midas. Todo lo que sea más pequeño que él sobre lo que ponga sus manos en los próximos 1d3 asaltos se convierte permanentemente en oro (hace falta un ataque de melee para tocar a un blanco involuntario, y es aplicable una tirada contra conjuros).
+450;549 El Blanco es afectado por Fascinación (N. de. T.: ver   The Great Net Spellbook  , Fascination) hacia el Lanzador. 
+451;550 El Lanzador Expulsa Muertos Vivientes como un clérigo del mismo alineamiento, al nivel efectivo de la Oleada.
+452;551 1d4 insectos Buscaoídos aparecen sobre el Blanco.
+453;552 Profundo sonido de cuerno (Cuerno del Valhalla, del mejor tipo que pueda soplar el Lanzador).
+454;553 El Blanco es afectado por el conjuro Estatua.
+455;554 Del Lanzador emana luz cegadora. Todas las criaturas que miren en esa dirección son cegadas durante 1d6 asaltos.
+456;555 El Lanzador aprende permanentemente un nuevo conjuro para sus libros. Selecciónalo al azar.
+457;556 Pequeñas lenguas de fuego salen disparadas de los dedos del Lanzador.
+458;557 El Lanzador canta con el efecto de un bardo de nivel 10 durante 1 hora o hasta que lance otro conjuro, que, evidentemente, no puede tener componentes verbales.
+459;558 El Blanco es encerrado en una Jaula de Fuerza.
+460;559 Oscuridad Continua (el Lanzador elige el área de efecto).
+461;560 El Blanco estalla en llamas, sufriendo 2d6 de daño.
+462;561 Convertir Metal en Madera sobre el Blanco.
+463;562 Rayos Prismáticos irradian desde el Lanzador en direcciones aleatorias.
+464;563 El Lanzador puede hablar un lenguaje antes desconocido, común en el área que se encuentra, sin constarle proficiencia alguna.
+465;564 Un Orbe Crómatico es disparado contra el Blanco, con el GACO del Lanzador, al nivel efectivo de la Oleada.
+466;565 Palos a Serpientes, bajo control del Lanzador, afecta a un objeto al azar a 3 m. del Lanzador. Dura 16 asaltos.
+467;566 Las manos del Lanzador proyectan babas incoloras en un cono de 6 m. de ancho por 12 m. de largo, que afectan al área como un conjuro de Grasa.
+468;567 El Lanzador escoge un objeto cercano para Animar Objeto.
+469;568 Un Gólem es creado a partir de la substancia apropiada más cercana. Si el Lanzador pasa una tirada de salvación contra conjuros, el Gólem le obedecerá,en caso contrario, atacará. 
+470;569 Calor Continuo (el Lanzador elige el área de efecto).
+471;570 El Blanco es afectado por un Estallido Psiónico.
+472;571 El Blanco es enterrado hasta el pecho en desperdicios que fluyen de un portal que aparece de repente.
+473;572 Apresurar centrado en el Lanzador.
+474;573 Nube Hedionda centrada en el Blanco.
+475;574 Una almohada (25%), mesa pequeña (50%), o yunque (25%) aparece sobre la cabeza del Blanco. La almohada no hace daño,la mesa hace 1-6 puntos de daño, y el yunque hace 3-30 puntos de daño y el Blanco debe salvarse contra petrificación o quedar inconsciente. 
+476;575 El Blanco es teleportado a 1d100 x 1.5 kms de distancia.
+477;576 El Lanzador se ve envuelto en tiras de metal. Hace falta un cerrajero para abrirlas.
+478;577 El Blanco se Polimorfiza en algo que rime con su nombre (a elección del Master).
+479;578 El Blanco es enterrado hasta la cintura (o 1.5 m., lo que sea menos) en cemento (lucha con -3 al dar y -4 a su CA).
+480;579 El Blanco es Confundido.
+481;580 Si el Blanco tiene alguna proficiencia en algo que no sea luchar, se sienta y lo hace durante 1d10 asaltos, utilizando materiales arbitrarios si los adecuados no están disponibles (p. ej. hacer monederos con su capa).
+482;581 El Blanco se derrumba convertido en polvo, con una posibilidad entre 20, no acumulativa, cada asalto, de volver a la normalidad. Si el polvo se dispersa, el Blanco es destruído.
+483;582 El Lanzador dispara Misiles Mágicos al Blanco, al nivel efectivo de la Oleada.
+484;583 El Lanzador gana 1.000 px, y genera una nueva Oleada. Vuelve a tirar.
+485;584 Telaraña sobre el Blanco al nivel efectivo de la Oleada.
+486;585 Una varita cercana duplica su tamaño (reteniendo sus habilidades). Si se corta por la mitad, ambas partes se convierten en Varitas de Maravilla, cada una con la mitad de cargas que la original.
+487;586 El Blanco es instantáneamente cubierto de aceite Griego.
+488;587 A un objeto al azar del Blanco le salen alas y ataca a otro blanco enemigo durante 2-3 rounds como una criatura de 6+4 DG. Sólo los objetos pequeños, portátiles, pueden ser así afectados. Ver Animar Objeto.
+489;588 El Blanco intenta suicidarse durante un asalto. Debe tirar con su GACO normal para darse, ya que en realidad es sólo un intento desesperado para llamar la atención.
+490;589 Disipar Magia sobre el objeto o ser más cercano al Blanco que sea susceptible a ese conjuro.
+491;590 El Lanzador escoge entre dos Oleadas más, como con el Selector de Oleadas de Hornung.
+492;591 Esfera Congelante de Otiluke,el segundo efecto es sólo sobre el Blanco. 
+493;592 Todo el oro en posesión del Lanzador se convierte en Platino.
+494;593 El Lanzador se vuelve etéreo durante 1d6 asaltos.
+495;594 El Lanzador obtiene aliento de fuego como por la Poción de Aliento de Fuego (sólo se permite un aliento).
+496;595 Todo el fluído en los contenedores del Blanco se convierte en un veneno mortal.
+497;596 El Lanzador cambia de sexo y gana 5 puntos de Carisma (25 máximo). Si se invierte el cambio de sexo, pierde esos puntos.
+498;597 El Blanco cambia al alineamiento más alejado del que tenga ahora.
+499;598 El Blanco y todo su equipo se convierten en gelatina de sabores, según su alineamiento:,LB: de naranja, NB: de limón, CB: de fresa,LN: de naranja y piña, NN: sin sabor, CN: de fresa con plátano,LM: de piña,NM: de lima,CM: de plátano. El Blanco vuelve a la normalidad en 1d20 asaltos. 
+500;599 El Blanco se Teleporta a su casa. Hay posibilidad de error.
+501;600 Un árbol cercano se convierte en un Treant controlable por el Lanzador, que puede atacar inmediatamente, y dura 1 turno. Si el Treant (56 pv) muere, también lo hace el Lanzador. A medida que sufre daño, el Lanzador se va sintiendo peor.
+502;601 El Blanco es encadenado al suelo (fuerza tensil de las cadenas: 1.360 kgs).
+503;602 Un Mazo de Muchas Cosas (la versión completa de 54 cartas incluída en este Compendio) aparece ante el Lanzador.
+504;603 Las armas del Blanco huyen de él como afectadas por un Cofre Retozón.
+505;604 Asustar sobre el Blanco.
+506;605 Lanzador y Blanco deben volver a tirar su característica más baja (tira 4d6 y escoge las mejores tiradas).
+507;606 Los ojos del Lanzador cambian de color continuamente, actuando como un Esquema Hipnótico para todos los que estén a 1.5 m. que puedan ver la cara del Lanzador. El cambio de color de ojos sigue activo durante 1 día.
+508;607 El Blanco pierde las garras, cuernos o cualquier otra parte del cuerpo, no viva, que no tengan los humanos. Hace falta regeneración o un conjuro deRegenerar para reemplazarlas.
+509;608 El Blanco Levita a 6 m. sobre el suelo durante 3d10 rounds.
+510;609 El Blanco es Proyectado al Plano Astral durante 2d4 rounds a menos que se salve contra conjuros a -5.
+511;610 El Blanco enferma aleatoriamente.
+512;611 El brazo del Lanzador se estira como una serpiente y muerde al Blanco (2d6 pd),trátalo como un monstruo de 6+4 DG, distancia máxima 6 m.. 
+513;612 Rayo de Sol centrado en el Lanzador.
+514;613 1d6 caltrops aparecen a los pies del Blanco.
+515;614 Los ojos del Lanzador se convierten en potentes linternas durante 1 día por nivel efectivo de la Oleada. Los rayos son muy estrechos, sólo 1 m. de ancho en el extremo, a 36 m. Cualquiera que mire hacia la luz debe salvarse contra conjuros a +3 o quedar cegado.
+516;615 Un Martillo Espiritual sale volando hacia el Blanco.
+517;616 Un Simulacro del Lanzador aparece en su lugar, y el Lanzador es teleportado aleatoriamente fuera de la vista (no hace falta que sea más lejos),el simulacro está bajo el control del Lanzador. 
+518;617 Bola de Fuego de Estallido Retardado,el Lanzador debe pasar una tirada de Identificar Conjuros para reconocerla,si no, estalla al final de su duración máxima. 
+519;618 Imbecilidad, 80% de que sea sobre el Blanco, 20% de que sea sobre el Lanzador.
+520;619 El Blanco es enviado a otro plano (como por el Expedidor al Azar de Hornung).
+521;620 El Blanco se vuelve hemofílico. Pierde un punto de vida por asalto por cada herida recibida hasta que sea curada. Neutralizado por un Curar Enfermedad.
+522;621 El Lanzador gana un objeto mágico aleatorio, que cae desde 3 metros de altura sobre su cabeza. 1d6 de daño aturdidor, y el objeto debe salvarse conta golpe aplastante para evitar su rotura (si es aplicable).
+523;622 El Blanco pierde toda la piel (esto normalmente resulta fatal en unas pocas horas a menos que sea curado,1d10+10 puntos de daño inmediatamente). El Blanco debe salvarse contra conjuros cada asalto o caer inconsciente por el dolor. Las criaturas con clase de armadura natural -6 o mejor son inmunes. 
+524;623 Todas las criaturas a 5 m. del Lanzador reciben un Curar.
+525;624 Todas las armas a 18 m. del Lanzador reciben Arma Encantada y Permanencia, añadiéndoles un   +   (si es posible). 
+526;625 El Lanzador es protegido por Devolver Conjuro durante el turno siguiente.
+527;626 Las ropas del Lanzador se convierten en un uniforme de la Flota Estelar. Ninguno de los personajes lo reconoce, pero el Carisma del Lanzador aumenta en 1 punto mientras lleve el uniforme. El uniforme no puede ser duplicado, ya que el material es desconocido.
+528;627 El conjuro intentado funciona con normalidad, pero el área de efecto se duplica. El Lanzador puede, si quiere, volver a apuntar antes de que tome efecto.
+529;628 El Blanco se congela a cero absoluto y es rompible (con una tirada superior en 12 o más a la necesitada para dar). El Blanco debe hacer una tirada de shock del sistema para sobrevivir al proceso de deshielo.
+530;629 Aparece un Merodeador Invisible controlado por el Lanzador.
+531;630 La próxima criatura viva que toque el Lanzador pierde permanentemente 1d6 puntos de vida. El Lanzador gana permanentemente el mismo número de puntos de vida.
+532;631 El Blanco explota, sufriendo 1d6 punto de daño por nivel efectivo de la Oleada. Todo el mundo a 1.5 m. del Blanco sufre la mitad de daño. Los que estén cerca pueden hacer tirada de salvación para llevarse sólo 1/4 de este.
+533;632 Un rayo de radiación golpea al Blanco por 1d20 puntos de daño: cae enfermo si no es inmune a la enfermedad, que acabará con su muerte en 1d3 días a menos que sea curado por un clérigo del mismo nivel que el nivel efectivo de la Oleada. Una tirada de salvación contra veneno se aplica sólo contra la enfermedad, no el daño.
+534;633 El Blanco se vuelve vulnerable a todas las formas de ataque a las que normalmente es inmune, hasta que sea disipado. Esto incluye la posible resistencia a la magia, pero no las tiradas de salvación.
+535;634 El Lanzador gana dos niveles de experiencia. Si el Lanzador había sido drenado de algún nivel, los recuperados son permanentes. En otro caso, los niveles ganados duran 1 hora (como una Poción de Heroismo).
+536;635 El Lanzador lanza un conjuro de cualquier tipo, de nivel 8 o menor, sin necesidad de componentes y con tiempo de lanzamiento 1 (da al jugador 10 segundos para decidir cual).
+537;636 El Lanzador drena al Blanco de tantos puntos de vida como necesite para poner al Lanzador al máximo de ellos. El Blanco recuperará esos puntos, si es consciente del hecho, cuando muera el Lanzador.
+538;637 Llamar Monstruos I-VII (tira 1d8, repite 8s).
+539;638 El Lanzador gana Piel de Piedra al nivel efectivo de la Oleada.
+540;639 Todas las criaturas hostiles al Lanzador a 18 m. de él quedan paralizadas durante 1d8 asaltos (cancelado con una tirada de salvación).
+541;640 El Lanzador es rodeado por un campo de fuerza durante 1d10 asaltos. Sólo pueden cruzarlo las criaturas amistosas hacia el Lanzador.
+542;641 Detener el Tiempo para todo el mundo en un radio de 5 m., excepto el Lanzador. Dura 1d3 asaltos.
+543;642 Las manos del Lanzador se convierten en armas de melee +3 mágicas durante 5 rounds,si el Lanzador tiene alguna proficiencia en armas, se convierten en esa arma, si no, al azar. El Lanzador puede atacar con ambas manos cada asalto, -2 a dar con la mano principal, -4 con la otra. 
+544;643 Una de las armas del Lanzador sale volando y ataca al Blanco (GAC0 15, 1 ataque, 24 pv, 1d6 de daño) hasta que el Lanzador vuelva a empuñarla, el Blanco muera, o el objeto pierda todos sus   puntos de vida   (lo cual no lo destruye). 
+545;644 El Blanco es afectado como por un Anillo del Carnero (3 cargas).
+546;645 El Lanzador conoce instantáneamente todo tipo de información sobre el Blanco (su misión, historia general, nombre, clase, nivel, habilidades, tipo de monstruo, etc...).
+547;646 1d4 balas de plata salen volando hacia el blanco (1d10 de daño cada una,hace falta una tirada de ataque para cada bala, con GACO 15). Cada bala contiene plata por valor de 1 mp. 
+548;647 Drena a todos los objetos mágicos del Blanco (excepto artefactos y reliquias) de todas sus propiedades mágicas,cada objeto se salva como un personaje del nivel del Blanco. 
+549;648 Cadena de Rayos centrada en el Blanco.
+550;649 Todos los objetos mágicos del Blanco se activan. Las pociones se comportan como si se hubiera bebido una dosis, los pergaminos son leídos, los objetos con cargas gastan 1 sobre el Blanco, las armas y similares tienen efecto sólo si hacen algo más que hacer daño.
+551;650 El Lanzador gana un +1 a todas sus tiradas de salvación durante las siguientes 24 horas.
+552;651 Un Cono de Frío al nivel efectivo de esta Oleada se dirige contra el Blanco.
+553;652 El Lanzador convoca a un grifo, unicornio, pegaso u otro animal fantástico para servirle como montura. Esta montura aparecerá en 1d8 días.
+554;653 El Lanzador obtiene un pulgar verde durante 1d4 días que hace crecer cualquier semilla con tocarla y cura 1d8 puntos de vida por asalto a las plantas monstruosas.
+555;654 Un chorro de oro fundido (como por el conjuro de Manos Ardientes) sale disparado de la boca del Lanzador (1d100 mo,hace 1 punto de daño por moneda de oro, salvación para mitad de daño,tiene área de efecto y también inicia fuegos). 
+556;655 Es invocado un Elemental de 8 DG de tipo aleatório. El Lanzador tiene un 50% de posibilidades de controlarlo, si se detiene y concentra durante los 3d6 rounds que la criatura tardará en desaparecer.
+557;656 Es invocado un Diablo o Demonio menor. El Lanzador tiene un 50% de poder controlarlo, si se detiene y concentra durante los 3d6 rounds que la criatura tardará en desaparecer.
+558;657 El Lanzador gana 1d8 x 10% de resistencia mágica durante 1 turno.
+559;658 El Blanco es golpeado por rayos laser, 2d12 + CA (si lleva armadura de metal) de daño, sin tirada de salvación, pero el Blanco ha de ser visible.
+560;659 El Blanco es Dañado (el inverso de Curar).
+561;660 El próximo ataque del Blanco sobre el Lanzador que tenga éxito cura en lugar de dañar.
+562;661 Todos los que tengan Infravisión a 15 m. del Lanzador la pierden, y los que no tengan la ganan, durante 1d6 turnos.
+563;662 El Lanzador gana un Detectar Magia que dura un mes. Su sensibilidad es tan grande que mirar a un objeto +3 o mejor le cegará durante 1d4 rounds.
+564;663 Misil Mágico contra el Blanco al nivel efectivo de la Oleada.
+565;664 Carne a Piedra sobre el Blanco (invertir si el Blanco es de piedra).
+566;665 Una hoja de guillotina vorpal sale volando de las manos del Lanzador contra el Blanco, con un +3 al dar,si la criatura no muere por decapitación, pero le da, sufre 1d6+3 puntos de daño. 
+567;666 Todo a 3 m. del Lanzador es troceado en cubitos de 3 cm. por campos de fuerza radiantes (excepto lo que sea etereo). Salvación contra conjuros para evitar el efecto.
+568;667 Un Golpe de Llama cae sobre el Blanco.
+569;668 Un Espejo de Oposición afecta al Blanco (sin salvación, solo una criatura, no funciona en Blancos invisibles).
+570;669 Golpe de Rayo disparado contra el Blanco (al nivel efectivo de la Oleada).
+571;670 Tormenta de Hielo centrada en el Blanco.
+572;671 El Lanzador es capaz de Volar a voluntad durante 1 mes.
+573;672 Un héroe u otra figura famosa amiga del Lanzador es invocada, permaneciendo un turno.
+574;673 Una Esfera de Aniquilación aparece en el Blanco (si se salva contra muerte, aparece a 1d3 m.).
+575;674 Las criaturas Hostiles a 18 m. del Lanzador deben salvarse contra Muerte o explotar violentamente.
+576;675 El DM grita   ¡Deseo!   y cuenta atrás desde 10. Si el Lanzador pide un deseo a tiempo, se le concede. 
+577;676 El Lanzador gana un talento psiónico salvaje.
+578;677 Los puntos de vida del Lanzador se elevan al máximo para sus dados de golpe.
+579;678 El conjuro intentado funciona, con el doble de efectividad, incluyendo daño, área de efecto, alcance y duración.
+580;679 La próxima vez que el Lanzador pronuncie las palabras   Cegar  ,   Matar   o   Aturdir  , funciona como el conjuro Palabra Poderosa adecuado (deja que el Lanzador escoja el área de efecto). 
+581;680 Tira 6d6, multiplica cada tirada por el nivel del Lanzador, y da al Lanzador ese número de px (como máximo se puede subir un nivel).
+582;681 Todos los atributos del Lanzador ascienden a 18 durante una hora.
+583;682 El Blanco es convertido en oro sólido, incluyendo posesiones (1 tirada de salvación contra muerte para ambos).
+584;683 El conjuro intentado funciona con el doble de su duración máxima. Los conjuros instantáneos o de un sólo uso persisten durante 2d4 asaltos (p. ej: una Bola de Fuego estallará cada asalto, cada toque con éxito en la duración extendida de Toque Vampírico drenará puntos de vida, etc.)
+585;684 El Lanzador tiene omnisciencia limitada durante 1 minuto, y puede hace cualquier pregunta que desee al DM (sólo durante 60 segundos contados).
+586;685 El Blanco debe pasar una tirada de salvación o explotar en una nube de gas venenoso que afectará a todas las criaturas en un radio de 3 m..
+587;686 El Blanco es aprisionado en un Plano Exterior.
+588;687 El conjuro funciona, con triple duración, alcance, área de efecto y daño normales.
+589;688 Una roca de una tonelada cae sobre el Blanco (un trozo del techo si está bajo tierra). Salvación para sufrir   sólo   3d10 de daño, si no muerte (no afecta a criaturas que no puedan ser golpeadas por armas normales). Las criaturas muy grandes reciben una roca proporcionalmente mayor. 
+590;689 La deidad del Lanzador es invocada. Esto no obliga a la deidad a acudir, pero es seguro que atraerá su atención. Una deidad razonablemente lista reconocerá la llamada como involuntaria, pero seguirá observando con atención al Lanzador durante un rato.
+591;690 El Lanzador puede jugarse hasta 3 puntos de Inteligencia en una tirada de salvación contra conjuros.
+592;691 El Blanco es golpeado por Desintegración.
+593;692 Un agujero de 3 cm. de diámetro es perforado a través del Blanco (superar una tirada de Destreza indica que el Blanco esquivó a tiempo). Esto causa 2d6 de daño, y tiene un 20% de posibilidades de darle en un órgano vital, matando al Blanco.
+594;693 Un artefacto mágico de gran poder es transportado a las manos del Lanzador. El Lanzador es afectado con normalidad por cogerlo si tiene algún efecto negativo. El anterior dueño del artefacto probablemente irá tras él y aparecerá seguramente en poco tiempo para reclamarlo.
+595;694 Tira en la tabla de Llamar Monstruos I-VII (tira 1d8, repite 8s). El Lanzador gana la habilidad de cambiar de forma a esa criatura. La habilidad no puede ser utilizada más de una vez a la semana, o se perderá.
+596;695 La tierra se traga al Blanco.
+597;696 Un cono de frío afecta el área del blanco por doble daño.
+598;697 El Lanzador hace una tirada contra conjuros. Si la pasa, gana 1 punto en un atributo determinado al azar (tira d6). Si falla, pierde un punto.
+599;698 El conjuro intentado funciona con el máximo efecto posible.
+600;699 La próxima afirmación desiderativa que haga el Lanzador o uno de sus compañeros que no esté más allá del poder de un conjuro de Deseo, es concedida.

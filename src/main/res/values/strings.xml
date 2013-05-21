@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" >Magia Salvaje
+    </string>
+    <string name="action_settings" >Settings
+    </string>
+    <string name="roll">Roll</string>
+    <string name="list">List</string>
+
+</resources>
