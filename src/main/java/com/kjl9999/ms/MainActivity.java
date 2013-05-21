@@ -58,11 +58,14 @@ public ArrayList<String> values = new ArrayList<String>();
         TextView mainText=(TextView) findViewById(R.id.maintext);
 
         switch (item.getItemId()) {
+
+            //ROLL BUTTON
             case R.id.menu_roll:
                 mainText.setText( (String) getMS());
 
                 break;
 
+            //LIST BUTTON
             case R.id.menu_list:
                 mainText.setText("");
                 for (int i=0; i<values.size(); i+=2){
